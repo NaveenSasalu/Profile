@@ -12,7 +12,7 @@
 ---
 
 ## 🧭 **Executive Summary**
-Senior IT Leader with **28+ years of experience**, driving enterprise application delivery, cloud transformation, and automation innovation across global organizations. Proven ability to align technology strategy with business objectives to deliver measurable outcomes, optimize costs, and modernize legacy systems. Recognized with **CIO and Global Delivery Awards** for transformational leadership and operational excellence.
+Senior IT Leader with **25+ years of experience**, driving enterprise application delivery, cloud transformation, and automation innovation across global organizations. Proven ability to align technology strategy with business objectives to deliver measurable outcomes, optimize costs, and modernize legacy systems. Recognized with **CIO and Global Delivery Awards** for transformational leadership and operational excellence.
 
 ---
 
@@ -31,7 +31,7 @@ Senior IT Leader with **28+ years of experience**, driving enterprise applicatio
 Global Team Leadership, IT Transformation, Strategic Planning  
 
 **Technology & Platforms:**  
-Amazon Web Services (AWS), ServiceNow, Salesforce (SFDC), Dynatrace, Docker, Full-Stack Development (Microsoft, Java, Open Source)  
+Amazon Web Services (AWS), Azure, Google Cloud, ServiceNow, Salesforce (SFDC), Dynatrace, Kubernetes, Docker, Full-Stack Development (Microsoft, Java, Open Source)  
 
 **Delivery Excellence:**  
 Project & Program Management (Agile, Scrum, Kanban, Waterfall), CI/CD Pipelines, Site Reliability Engineering (SRE), DevOps  
