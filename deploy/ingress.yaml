@@ -6,6 +6,14 @@ metadata:
     cert-manager.io/cluster-issuer: letsencrypt-http
     kubernetes.io/ingress.class: nginx
 spec:
+  tls:
+    - hosts: ["re.kaayaka.in"]
+      secretName: web-tls
+  rules:
+    - host: re.kaayaka.in
+      http:
+        paths:
+          - path: /
   rules:
     - http:
         paths:
